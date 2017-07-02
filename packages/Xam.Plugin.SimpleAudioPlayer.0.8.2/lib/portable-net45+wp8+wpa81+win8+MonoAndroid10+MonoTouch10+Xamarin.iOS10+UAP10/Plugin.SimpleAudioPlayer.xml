@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.SimpleAudioPlayer</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer">
+            <summary>
+            Cross platform SimpleAudioPlayer implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>

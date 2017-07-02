@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.SimpleAudioPlayer</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer">
+            <summary>
+            Cross platform SimpleAudioPlayer implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation">
+            <summary>
+            Implementation for SimpleAudioPlayer
+            </summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.Duration">
+            <Summary>
+             Length of audio in seconds
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.CurrentPosition">
+            <Summary>
+             Current position of audio in seconds
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.Volume">
+            <Summary>
+             Playback volume (0 to 1)
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.Balance">
+            <Summary>
+             Balance left/right: -1 is 100% left : 0% right, 1 is 100% right : 0% left, 0 is equal volume left/right
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.IsPlaying">
+            <Summary>
+             Indicates if the currently loaded audio file is playing
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.CanSeek">
+            <Summary>
+             Indicates if the position of the loaded audio file can be updated
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.SimpleAudioPlayerImplementation.Load(System.String)">
+            <Summary>
+             Load wave or mp3 audio file from Assets folder
+            </Summary>
+        </member>
+    </members>
+</doc>

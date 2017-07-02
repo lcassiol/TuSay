@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.SimpleAudioPlayer.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer">
+            <summary>
+            Interface for SimpleAudioPlayer
+            </summary>
+        </member>
+        <member name="E:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.PlaybackEnded">
+            <Summary>
+             Raised when audio playback completes successfully 
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Duration">
+            <Summary>
+             Length of audio in seconds
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.CurrentPosition">
+            <Summary>
+             Current position of audio playback in seconds
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Volume">
+            <Summary>
+             Playback volume 0 to 1 where 0 is no-sound and 1 is full volume
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Balance">
+            <Summary>
+             Balance left/right: -1 is 100% left : 0% right, 1 is 100% right : 0% left, 0 is equal volume left/right
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.IsPlaying">
+            <Summary>
+             Indicates if the currently loaded audio file is playing
+            </Summary>
+        </member>
+        <member name="P:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.CanSeek">
+            <Summary>
+             Indicates if the position of the loaded audio file can be updated
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Load(System.IO.Stream)">
+            <Summary>
+             Load wav or mp3 audio file as a stream
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Load(System.String)">
+            <Summary>
+             Load wav or mp3 audio file from local path
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Play">
+            <Summary>
+             Begin playback or resume if paused
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Pause">
+            <Summary>
+             Pause playback if playing (does not resume)
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Stop">
+            <Summary>
+             Stop playack and set the current position to the beginning
+            </Summary>
+        </member>
+        <member name="M:Plugin.SimpleAudioPlayer.Abstractions.ISimpleAudioPlayer.Seek(System.Double)">
+            <Summary>
+             Set the current playback position (in seconds)
+            </Summary>
+        </member>
+    </members>
+</doc>

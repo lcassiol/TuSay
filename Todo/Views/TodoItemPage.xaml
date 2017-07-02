@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Todo.TodoItemPage" x:Name="page" Title="Gravação">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="iconTusay.png"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+        <Button Image="commenting.png" BackgroundColor="Transparent" Clicked="OnMostCommomSpeechClick"  Text="Frases Comuns" FontSize="Micro" HorizontalOptions="End" />
+        
+        <Label Text="Você disse:" />
+        <Entry Text="{Binding Source={x:Reference page}, Path=TodoItem.beforeWords}" Placeholder="" />
+
+        <Label Text="Tradução:" />
+        <Entry IsEnabled="false" Text="{Binding Source={x:Reference page}, Path=TodoItem.afterWords}" Placeholder="" />
+        <ActivityIndicator HorizontalOptions="Center" IsRunning="{Binding Source={x:Reference page}, Path=IsProcessing}" />
+        
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Image="microphone64.png" BackgroundColor="Transparent" Clicked="OnRecognizeSpeechButtonClicked"  Text="Gravar" FontSize="Large" WidthRequest="250" HeightRequest="100" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button IsVisible="False" x:Name="repeatButtom" Image="listening.png" BackgroundColor="Transparent" Clicked="OnRepeatTextButtonClicked" Text="Repetir" FontSize="Large"  WidthRequest="250" HeightRequest="100" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

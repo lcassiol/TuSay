@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Todo.AboutPage" Title="Sobre o App">
+	<StackLayout Margin="20">
+		<ActivityIndicator x:Name="activityIndicator" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Label Text="Este aplicativo foi desenvolvido por Cássio Carvalho e Daniel Carvalho." />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            
+            <Image Source="Steam_Avatar_Cassio.png" />
+            <Image Source="danielbpc.png" />
+            
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

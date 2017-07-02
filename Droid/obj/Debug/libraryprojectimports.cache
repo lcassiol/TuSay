@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\PCLStorage\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.Media\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.SimpleAudioPlayer\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.TextToSpeech\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\PCLStorage\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\PCLStorage\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Media\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.SimpleAudioPlayer\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.TextToSpeech\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\PCLStorage\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\PCLStorage.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.Media.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.SimpleAudioPlayer.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Plugin.TextToSpeech.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\lcass\Documents\Visual Studio 2017\Projects\TodoCognitiveServices\Droid\obj\Debug\__library_projects__\PCLStorage.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
